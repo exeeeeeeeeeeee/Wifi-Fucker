@@ -10,7 +10,7 @@ Jamming wifi devices using ARP spoofing.
  2. Just follow the instructions for use.
  ## Usage
  ```
-arpspoof.py [-h] [-i INTERFACE] [--attackermac MAC] [--gatemac MAC]
+wifi-fucker.py [-h] [-i INTERFACE] [--attackermac MAC] [--gatemac MAC]
             [--targetmac MAC] [--gateip IP] [--interval TIME] [-d]
             TARGET_IP
 
