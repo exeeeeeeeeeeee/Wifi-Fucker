@@ -11,8 +11,8 @@ Jamming wifi devices using ARP spoofing.
  ## Usage
  ```
 wifi-fucker.py [-h] [-i INTERFACE] [--attackermac MAC] [--gatemac MAC]
-            [--targetmac MAC] [--gateip IP] [--interval TIME] [-d]
-            TARGET_IP
+               [--targetmac MAC] [--gateip IP] [--interval TIME] [-d]
+               TARGET_IP
 
 Execute ARP Cache Poisoning attacks (a.k.a "ARP Spoofing") on local networks.
 
